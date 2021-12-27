@@ -3,7 +3,7 @@ name: Deployment
 
 on:
    push:
-      brancehs: [ main ]
+      branches: [ main ]
    pull_request:
       branches: [ main ]
    
